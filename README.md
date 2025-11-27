@@ -1,10 +1,4 @@
-Oie eu sou a Kely! ╰(*°▽°*)╯
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Oie+eu+sou+a+Kely!+╰(*°▽°*)╯+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5C47F7&width=435&lines=Oie+eu+sou+a+Kely!+%E2%95%B0(*%C2%B0%E2%96%BD%C2%B0*)%E2%95%AF" alt="Typing SVG" /></a>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KelySabrine/KelySabrine/output/github-contribution-grid-snake-dark.svg">
