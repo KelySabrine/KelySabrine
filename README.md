@@ -6,7 +6,7 @@ Estou sempre em busca de novos desafios e atualizando meus conhecimentos na áre
   
 #
 <img align="right" alt="" height="190px" src="./src/study.gif">
-#
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KelySabrine/KelySabrine/output/github-contribution-grid-snake-dark.svg">
