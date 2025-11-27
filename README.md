@@ -5,6 +5,8 @@
 Estou sempre em busca de novos desafios e atualizando meus conhecimentos na área de tecnologia. Sou apaixonado por aprender e aplicar o que estudo para criar soluções inovadoras e eficientes.
   
 #
+<img align="right" alt="" height="190px" src="./src/study.gif">
+#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KelySabrine/KelySabrine/output/github-contribution-grid-snake-dark.svg">
