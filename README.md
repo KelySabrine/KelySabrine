@@ -5,7 +5,7 @@
 Estou sempre em busca de novos desafios e atualizando meus conhecimentos na área de tecnologia. Sou apaixonado por aprender e aplicar o que estudo para criar soluções inovadoras e eficientes.
   
 #
-<img align="right" alt="" height="190px" src="./src/Kely Sabrine (1).gif">
+<img align="right" alt="" height="190px" src="./.github/src/Kely Sabrine (1).gif">
 
 
 <picture align="center">
