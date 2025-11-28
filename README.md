@@ -5,7 +5,7 @@
 
 
 <p align="center">Estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de Santa Catarina – Campus Canoinhas. Atualmente, busco oportunidades na área de programação, com foco em desenvolvimento front-end. Tenho me dedicado ao aprimoramento das minhas habilidades em JavaScript, Python, C e outras tecnologias.
-Estou sempre em busca de novos desafios e atualizando meus conhecimentos na área de tecnologia. Sou apaixonado por aprender e aplicar o que estudo para criar soluções inovadoras e eficientes.
+Estou sempre em busca de novos desafios e atualizando meus conhecimentos na área de tecnologia. Sou apaixonada por aprender e aplicar o que estudo para criar soluções inovadoras e eficientes.
 
 
 
