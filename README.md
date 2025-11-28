@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5F0CF7&width=435&lines=Oie%2C+seja+bem-vindo(a)!+%E2%95%B0(*%C2%B0%E2%96%BD%C2%B0*)%E2%95%AF" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7E14BD&width=435&lines=Oie%2C+seja+bem-vindo(a)!+%E2%95%B0(*%C2%B0%E2%96%BD%C2%B0*)%E2%95%AF" alt="Typing SVG" /></a>
 
 <img src="./.github/src/Kely Sabrine (1).gif" alt="" style="display: block; margin: 0 auto;">
 
