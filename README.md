@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BA33F7&width=435&lines=%E2%9B%A6Oie+eu+sou+a+Kely!+%E2%95%B0(*%C2%B0%E2%96%BD%C2%B0*)%E2%95%AF%E2%9B%A6;Oie+eu+sou+a+Kely!+%E2%95%B0(*%C2%B0%E2%96%BD%C2%B0*)%E2%95%AF" alt="Typing SVG" /></a>
 #
-<img src="./.github/src/Kely Sabrine (1).gif.gif" alt="" style="display: block; margin: 0 auto;">
+<img src="./.github/src/Kely Sabrine (1).gif" alt="" style="display: block; margin: 0 auto;">
 #
 
 
